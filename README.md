@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome to my Blog
-[longbin.tech]
+[Tang's Blog](https://longbin.tech)
