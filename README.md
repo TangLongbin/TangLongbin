@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome to my Blog
+
 [Tang's Blog](https://longbin.tech)
 
 ### Recently Working On
-[HITSZ-OpenAuto](https://hoa.moe)
+
+[HITSZ-OpenAuto](https://hoa.moe)  
 [NUSRI-23-24-P22](https://github.com/tanglongbin/nusri-23-24-p22)
