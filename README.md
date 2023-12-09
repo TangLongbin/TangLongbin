@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 ### Recently Working On
 [HITSZ-OpenAuto](https://hoa.moe)
+[NUSRI-23-24-P22](https://github.com/tanglongbin/nusri-23-24-p22)
