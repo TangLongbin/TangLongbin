@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Welcome to my Blog
 
-[Tang's Blog](https://longbin.tech)
+[Longbin's Blog](https://longbin.tech)
 
 ### Recently Working On
 
